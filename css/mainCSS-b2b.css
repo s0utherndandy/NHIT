@@ -1,0 +1,93 @@
+/*!
+ * Start Bootstrap - Small Business HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+	background-color:#E8E8E8;
+	font-family: 'Roboto', sans-serif;
+}
+
+footer {
+    padding: 30px 0;
+}
+
+
+.topBar{
+	background-color:#1C66A7;
+	}
+
+.blackBar{
+	background-color:#000000;
+
+	}
+
+.heroBar{
+	background-color:#0B4482;
+
+	}
+	
+.pinkBar{
+	background-color:#C5445d;
+
+	}
+	
+.logoIMG{
+	max-width:214px;
+	max-height:109px;
+	padding:5px 0px 5px 0px;
+	}
+
+.h1-blueBG{
+	color:#FFFFFF;
+	font-weight:600;
+	font-size:2.5em;
+}
+
+.h1-pinkBG{
+	color:#C5445d;
+	font-weight:600;
+	font-size:2.5em;
+}
+
+.h2{
+	font-size:.75em;
+	}
+
+.grayFONT{
+	color:#D4D4D4;
+	font-weight:400;
+	}
+
+.itFONT{
+	font-style:italic;
+	}
+	
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.panel
+{
+	border:hidden;
+	}
+	
+.panel-heading{
+	border: solid 1px #9A9A9A;
+	font-color: #FFFFFF;
+	background-color: #FC0004;
+	}
+	
+	.mainSection{
+		padding-top:15px;
+		}
+.mid-cta h2{
+	padding: 0 30px 20px 0;
+	font-style: italic;
+	display:inline;
+}
+.mid-cta {
+	text-align: center;
+}
