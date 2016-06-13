@@ -13,7 +13,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 	
-	<title>Microsoft Excel Training - New Horizons Canada</title>
+	<title>Cisco® Interconnecting Cisco® Networking Devices Part - New Horizons Canada</title>
 	
 	<!-- Bootstrap Core CSS -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -45,7 +45,7 @@
 		
 		<div class="row heroBar">
 			<div class="container">
-				<h1 class="h1-blueBG">MICROSOFT EXCEL 2013 <small>INDUSTRY LEADING TRAINING</small></h1>
+				<h1 class="h1-blueBG">Cisco® Interconnecting Cisco® Networking Devices(ICND)</h1>
 				<h4 class="grayFONT itFONT">Get trained by industry leading experts.</h4>
 			</div>
 		</div>
@@ -57,45 +57,30 @@
 				<ol class="carousel-indicators">
 					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 					<li data-target="#myCarousel" data-slide-to="1"></li>
-					<li data-target="#myCarousel" data-slide-to="2"></li>
-					<li data-target="#myCarousel" data-slide-to="3"></li>
+
 				</ol>
 		
 				<!-- Wrapper for slides -->
 				<div class="carousel-inner" role="listbox">
 					<div class="item active">
-						<img src="images/julyoll.jpg" alt="excel summer promotion 2013" width="100%">
+						<img src="images/icnd1-promo.jpg" alt="Cisco® Interconnecting Cisco® Networking Devices Part 1 v2.0 (ICND2)
+
+" width="100%">
 						<div class="carousel-caption">
 							
 						</div>
 					</div>
                     
                     <div class="item">
-						<img src="images/excelpromosummer.jpg" alt="two people at a job interview shaking hands" width="100%">
+						<img src="images/icnd2.jpg" alt="Cisco® Interconnecting Cisco® Networking Devices Part 2 v2.0 (ICND2)
+
+" width="100%">
 						<div class="carousel-caption">
 							
 						</div>
 					</div>
 					
-					<div class="item">
-						<img src="images/excelpart1.jpg" alt="two people at a job interview shaking hands" width="100%">
-						<div class="carousel-caption">
-							
-						</div>
-					</div>
-					
-					<div class="item">
-						<img src="images/excelpart2.jpg" alt="boss leading a meeting with employees" width="100%">
-						<div class="carousel-caption">
-							
-						</div>
-					</div>
-					
-					<div class="item">
-						<img src="images/excelpart3.jpg" alt="instructor helping students" width="100%">
-						<div class="carousel-caption">
-							
-						</div>
+				
 					</div>
 				</div>
 	
@@ -109,14 +94,8 @@
 					<span class="sr-only">Next</span>
 				</a>
 			</div>
-		</div>
-	
-	
-		
-		<div class="container">
-			<div class="well mid-cta"><h2>Kickstart Your Microsoft Excel Training!</h2><a onClick="goog_report_conversion('');ga('send', 'event', 'B2B Enroll Button', 'Click', 'MS Excel');" href="http://www.nhtorontocanada.com/training-and-certifications/microsoft-office/excel#!/category/34" class="btn btn-lg btn-success">Enroll Now!</a></div>
-		</div>
-		
+		</div></div>
+
 		
 	<!-- Content Row -->
 	<div class="container topBar mainSection">
@@ -126,14 +105,23 @@
 		
 			<div class="panel panel-default">
 				<div class="panel-heading">
-					<h4>Program Summary</h4>
+					<h4>Cisco® Interconnecting Cisco® Networking Devices Part 1 v2.0 (ICND1)
+
+</h4>
 				</div>
 				<div class="panel-body">
-					<p>Learning how to use Excel is an investment in both your personal and professional life. Excel makes it easy to monitor financial performance, such as business profit or loss, calculate payments on large purchases, plan a budget, or stay organized with checklists.
-<br><br>
-As an employee, learning how to use Excel efficiently provides value, since most jobs utilize this application. This opens up <strong>more opportunities for employment and career advancement</strong>.
-<br><br>
-When employees know how to use Excel, this improves efficiency in the workplace. Employees who know how to create detailed worksheets, invoices, charts, and complex formulas achieve professional results in a fraction of the time.</p>
+					<p>Students will learn how to install, operate, configure, and verify a basic IPv4 and IPv6 network, including configuring a LAN switch, configuring an IP router, connecting to a WAN, and identifying basic security threats.</p>
+				</div>
+			</div>
+            
+            <div class="panel panel-default">
+				<div class="panel-heading">
+					<h4>Cisco® Interconnecting Cisco® Networking Devices Part 1 v2.0 (ICND1)
+
+</h4>
+				</div>
+				<div class="panel-body">
+					<p>Students will learn how to install, operate, configure, and verify a basic IPv4 and IPv6 network, including configuring a LAN switch, configuring an IP router, connecting to a WAN, and identifying basic security threats.</p>
 				</div>
 			</div>
 		</div>
